@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @RITIKKUMAWAT009
-- 👀 I’m interested in mobile app dovelopment
-- 🌱 I’m currently learning  app dovelopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  ritikkumawat140@gmail.com
+### Hi there 👋🏾  welcome to my Github!☁️
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+- 👋 I’m @RITIKKUMAWAT009<br>
+- 👀 I’m interested in mobile app dovelopment<br>
+- 🌱 I’m currently learning  app dovelopment<br>
+- 💞️ I’m looking to collaborate on ...<br>
+- 📫 How to reach me  ritikkumawat140@gmail.com<br><br><br>
 <p align="center">
   <a href="https://www.facebook.com/hritik.kumawat.96"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/ritikkumawat140"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
