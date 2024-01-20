@@ -1,7 +1,6 @@
 ### Hi there 👋🏾  welcome to my Github!☁️
-
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+ <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </p>
 - 👋 I’m @RITIKKUMAWAT009<br>
 - 👀 I’m interested in mobile app dovelopment<br>
