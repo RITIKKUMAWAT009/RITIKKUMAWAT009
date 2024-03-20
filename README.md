@@ -6,7 +6,7 @@
 - 👀 I’m interested in mobile app dovelopment<br>
 - 🌱 I’m currently learning  app dovelopment<br>
 - 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me <a href="ritikkumawat140@gmail.com">ritikkumawat140@gmail.com</a><br><br><br>
+- 📫 How to reach me <p>ritikkumawat140@gmail.com</p><br><br><br>
 <p align="center">
   <a href="https://www.facebook.com/hritik.kumawat.96"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/ritikkumawat140"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
