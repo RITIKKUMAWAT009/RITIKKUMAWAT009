@@ -47,7 +47,7 @@ I specialize in building high-performance, scalable mobile applications using Fl
 
 ## 🏆 Featured Projects
 
-### **🏥 DataMede - Healthcare Management System**
+### **🏥 Healthcare Management System**
 A comprehensive healthcare platform serving patients, doctors, and administrators through three integrated applications.
 
 **🔧 Technologies:** Flutter, Dart, BLoC, Firebase, REST APIs, Cloud Messaging
@@ -62,8 +62,6 @@ A comprehensive healthcare platform serving patients, doctors, and administrator
 - Implemented real-time data synchronization
 - Designed secure user authentication system
 - Optimized app performance for better user experience
-
-**[🔗 View Repository](https://github.com/RITIKKUMAWAT009/datamede)** | **[📱 Live Demo](#)**
 
 ---
 
@@ -89,7 +87,7 @@ Full-featured cross-platform shopping application with complete e-commerce funct
 
 ---
 
-### **👨‍💼 FollowPath - Face Recognition Attendance System**
+### **👨‍💼 Face Recognition Attendance System**
 Innovative attendance system using facial recognition technology for enterprise use.
 
 **🔧 Technologies:** Flutter, Firebase, Face Recognition API, Real-time Database
