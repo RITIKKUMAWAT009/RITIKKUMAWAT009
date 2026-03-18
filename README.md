@@ -31,7 +31,7 @@ I specialize in building high-performance, scalable mobile applications using Fl
 
 ## 💼 Professional Experience
 
-### **Flutter Developer** | Techabet Pvt Ltd | _Aug 2024 - Present_
+### **Flutter Developer** | Cyber Vision Technology | _Aug 2024 - Present_
 - Developed secure authentication systems with token-based management
 - Implemented real-time notifications using Firebase Cloud Messaging (FCM)
 - Built and consumed RESTful APIs for user management and dashboard features
